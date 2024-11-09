@@ -1,2 +1,3 @@
+git+https://github.com/<username>/<repository>.git#egg=groq
 streamlit
 groq
